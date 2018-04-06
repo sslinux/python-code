@@ -1,3 +1,7 @@
+
+"""
+非全局变量不需要上锁
+"""
 import threading
 from threading import Thread
 import time
@@ -25,5 +29,6 @@ p2 = Thread(target=test1)
 p2.start()
 
 """
-在多线程开发中，全局变量是多个线程都共享的数据，而局部变量等是各自线程的，是非共享的
+在多线程开发中，全局变量是多个线程都共享的数据；
+而局部变量等是各自线程的，是非共享的
 """
