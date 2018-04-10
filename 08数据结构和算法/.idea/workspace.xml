@@ -12,23 +12,14 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/08$02O.coverage" NAME="02时间复杂度与大O表示法 Coverage Results" MODIFIED="1523321244585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/08$010_v3_.coverage" NAME="010单向链表-v3-查找和删除元素 Coverage Results" MODIFIED="1523348895351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/08$011.coverage" NAME="011单向循环列表 Coverage Results" MODIFIED="1523353346014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/08$01.coverage" NAME="01引入 Coverage Results" MODIFIED="1523320321684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/08$010.coverage" NAME="010单向链表 Coverage Results" MODIFIED="1523345039221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/08$010_v2.coverage" NAME="010单向链表-v2 Coverage Results" MODIFIED="1523346922456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/08$05python.coverage" NAME="05python列表类型不同操作的时间效率 Coverage Results" MODIFIED="1523327727326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="010单向链表-v3-查找和删除元素.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/010单向链表-v3-查找和删除元素.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,6 +45,8 @@
         <option value="$PROJECT_DIR$/010单向链表-v2.py" />
         <option value="$PROJECT_DIR$/010单向链表-v3-查找和删除元素.py" />
         <option value="$PROJECT_DIR$/010单向链表-v4-优化.py" />
+        <option value="$PROJECT_DIR$/011单向循环列表.py" />
+        <option value="$PROJECT_DIR$/012双向链表.py" />
       </list>
     </option>
   </component>
@@ -111,7 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.010单向链表-v3-查找和删除元素">
+  <component name="RunManager" selected="Python.011单向循环列表">
     <configuration name="010单向链表-v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="08数据结构和算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,7 +162,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="02时间复杂度与大O表示法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="011单向循环列表" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="08数据结构和算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,7 +175,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02时间复杂度与大O表示法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/011单向循环列表.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,19 +201,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.02时间复杂度与大O表示法" />
       <item itemvalue="Python.05python列表类型不同操作的时间效率" />
       <item itemvalue="Python.010单向链表" />
       <item itemvalue="Python.010单向链表-v2" />
       <item itemvalue="Python.010单向链表-v3-查找和删除元素" />
+      <item itemvalue="Python.011单向循环列表" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.011单向循环列表" />
         <item itemvalue="Python.010单向链表-v3-查找和删除元素" />
         <item itemvalue="Python.010单向链表-v2" />
         <item itemvalue="Python.010单向链表" />
         <item itemvalue="Python.05python列表类型不同操作的时间效率" />
-        <item itemvalue="Python.02时间复杂度与大O表示法" />
       </list>
     </recent_temporary>
   </component>
@@ -239,14 +232,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32900432" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32900432" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32900432" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32900432" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18036287" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -369,12 +361,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/010单向链表-v3-查找和删除元素.py">
+    <entry file="file://$PROJECT_DIR$/010单向链表-对比-顺序表.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="198">
+          <caret line="122" column="17" selection-start-line="17" selection-end-line="129" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/010单向链表-v3-查找和删除元素.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/011单向循环列表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="111" column="19" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/012双向链表.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
